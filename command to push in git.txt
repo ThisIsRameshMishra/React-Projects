@@ -1,0 +1,9 @@
+Step1: open the project folder with "gitbash here"
+Step2:git init
+Step3:git add .
+Step4:git commit -m "First Commit"
+Step5:git status
+Step7:git remote add origin url
+Step8:git push origin master
+Step9:git push -f origin master
+Step10:that's it.
